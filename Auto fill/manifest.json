@@ -1,0 +1,12 @@
+{
+    "name": "Auto Fill extension",
+    "version" : "1.0.0",
+    "description" : "A software that automatically fills everything you want",
+    "manifest_version": 2,
+     "browser_action" : {
+        "default_popup": "demo.html",
+        "default_icon": "circle-cropped (4).png"
+    }
+    
+
+}
